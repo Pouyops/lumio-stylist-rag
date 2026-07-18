@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/FastAPI-0.11x-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Qdrant-vector%20search-DC244C" alt="Qdrant">
   <img src="https://img.shields.io/badge/OpenAI-compatible-412991?logo=openai&logoColor=white" alt="OpenAI-compatible">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License: MIT">
 </p>
 
 ---
@@ -214,5 +215,6 @@ scripts/
   proxy, and the storefront UI. Once the catalog route exists, flip `CATALOG_SOURCE=http`
   — the sync client is already implemented.
 
----
+## License
 
+Released under the [MIT License](LICENSE).
