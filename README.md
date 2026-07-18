@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="LUMIO Personal Stylist — RAG service" width="100%">
-</p>
-
 <h1 align="center">LUMIO Personal Stylist — RAG Service</h1>
 
 <p align="center">
@@ -220,5 +216,3 @@ scripts/
 
 ---
 
-<sub>The original project brief lives in <a href="INSTRUCTIONS.md"><code>INSTRUCTIONS.md</code></a>.
-Add a <code>LICENSE</code> file before publishing if you want to set usage terms.</sub>
