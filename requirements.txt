@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+openai
+httpx
+pydantic
+pydantic-settings
+apscheduler
+python-dotenv

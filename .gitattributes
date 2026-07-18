@@ -1,0 +1,4 @@
+# Normalize line endings: store LF in the repo, check out native.
+* text=auto eol=lf
+*.png binary
+*.json text eol=lf

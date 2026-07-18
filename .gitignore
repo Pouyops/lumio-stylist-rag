@@ -1,0 +1,13 @@
+# secrets & local config
+.env
+api.txt
+
+# vector store (embedded qdrant)
+qdrant_data/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
